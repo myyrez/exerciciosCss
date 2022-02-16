@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.extremoTop {
+    /* height: 100%;
+    width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.extremoBot {
+    /* height: 100%;
+    width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.top3 {
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.bot3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.top {
+    height: 14%;
+}
+
+.mid {
+    height: 72%;
+}
+
+.bot {
+    height: 14%;
+}
+
+.vermelho {
+    height: 5rem;
+    width: 5rem;
+}
